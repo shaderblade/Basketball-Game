@@ -1,2 +1,2 @@
 # Basketball-Game
- CAP819 Project
+A very simple basketball game -- work in progress
